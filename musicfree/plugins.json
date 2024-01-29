@@ -29,6 +29,6 @@
             "name": "kugou",
             "url": "https://raw.githubusercontent.com/eson1102/rules/main/musicfree/kugou.js",
             "version": "0.1.12"
-        },
+        }
     ]
 }
