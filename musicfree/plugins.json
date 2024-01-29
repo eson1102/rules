@@ -1,0 +1,34 @@
+{
+    "plugins": [
+        {
+            "name": "bilibili",
+            "url": "https://raw.githubusercontent.com/eson1102/rules/main/musicfree/bilibili.js",
+            "version": "0.1.12"
+        },
+        {
+            "name": "Youtube",
+            "url": "https://raw.githubusercontent.com/eson1102/rules/main/musicfree/youtube.js",
+            "version": "0.0.1"
+        }
+        {
+            "name": "QQ",
+            "url": "https://raw.githubusercontent.com/eson1102/rules/main/musicfree/QQ.js",
+            "version": "0.1.12"
+        },
+        {
+            "name": "163",
+            "url": "https://raw.githubusercontent.com/eson1102/rules/main/musicfree/163.js",
+            "version": "0.1.12"
+        },
+        {
+            "name": "migu",
+            "url": "https://raw.githubusercontent.com/eson1102/rules/main/musicfree/migu.js",
+            "version": "0.1.12"
+        },
+        {
+            "name": "kugou",
+            "url": "https://raw.githubusercontent.com/eson1102/rules/main/musicfree/kugou.js",
+            "version": "0.1.12"
+        },
+    ]
+}
